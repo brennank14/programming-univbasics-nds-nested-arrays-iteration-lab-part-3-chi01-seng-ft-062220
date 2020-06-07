@@ -20,7 +20,7 @@ def join_nested_strings(src)
     end
     row_index += 1
   end
-  puts new_array
+  new_array
 end
 
-join_nested_strings(ar)
+
