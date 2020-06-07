@@ -12,7 +12,7 @@ def join_nested_strings(src)
   new_array = []
   while row_index < src.count do
     element_index = 0
-    while element_index < sec[row_index].count do
+    while element_index < src[row_index].count do
       if src[row_index][element_index].class == str
         new_array << src[row_index][element_index]
       end
