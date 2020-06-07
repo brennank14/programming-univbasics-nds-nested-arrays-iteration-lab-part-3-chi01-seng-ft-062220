@@ -1,7 +1,7 @@
 ar = [
- [1, 2, 1, 7, 3],
- [2, 100, 15, 4, 18],
- [15, 16, 99, 1, 2, 11]
+  ["The", 4, "quick"],
+  [-1, "brown", "fox", 30],
+  ["studied", 101, 233, "Ruby"]
 ]
 
 def join_nested_strings(src)
