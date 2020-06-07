@@ -23,4 +23,4 @@ def join_nested_strings(src)
   new_array
 end
 
-join_nested_strings
+join_nested_strings(ar)
